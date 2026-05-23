@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Hero() {
+function Home() {
     return (
-        <section id="hero" className="hero">
+        <section id="home" className="home">
             <div className="home-content">
                 <h1>Hi, I'm <span>Drashti Patel</span></h1>
                 <h2>React Developer</h2>
@@ -13,4 +13,4 @@ function Hero() {
     );
 }
 
-export default Hero;
+export default Home;

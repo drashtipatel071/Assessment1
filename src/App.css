@@ -65,7 +65,7 @@ body {
     color: #cfd5f3;
 }
 
-.hero {
+.home {
     background: #0f0f1b;
     color: rgb(244, 238, 238);
     min-height: 100vh;
@@ -76,22 +76,22 @@ body {
     padding-top: 60px;
 }
 
-.hero-content {
+.home-content {
     max-width: 800px;
     padding: 2rem;
     
 }
 
-.hero-content h1 {
+.home-content h1 {
     font-size: 3.5rem;
     margin-bottom: 1opx;
 }
 
-.hero-content h1 span {
+.home-content h1 span {
     color: #ecd550;
 }
 
-.hero-content h2 {
+.home-content h2 {
     font-size: 28px;
     margin-bottom: 15px;
     font-weight: 500;
@@ -107,7 +107,7 @@ h2 {
 p {
   margin-bottom: 20px;
 }
-.hero-content p {
+.home-content p {
     font-size: 18px;
     margin-bottom: 25px;
     opacity: 0.9;
@@ -131,7 +131,7 @@ p {
     transform: translateY(-3px);
     box-shadow: 0 5px 20px rgba(251, 211, 211, 0.2);
 }
-.hero button {
+.home button {
   padding: 12px 25px;
   background: #025e82;
   color: white;
@@ -141,7 +141,7 @@ p {
   transition: 0.3s;
 }
 
-.hero button:hover {
+.home button:hover {
   background: #81c9e8;
 
 }
